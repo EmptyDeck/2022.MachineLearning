@@ -14,6 +14,9 @@
 - 질의응답: slack 플랫폼
 - 실습/과제점수 채점 현황: [채점파일](https://docs.google.com/spreadsheets/d/1SWyDo8FFm8497iPIcR2Ma_xybgxmRu-mouXfwichNtw/edit#gid=0)
 
+## 교재
+- 통계
+
 ## 강의계획서
 - 수업시간: 월/수(12:00~13:30) 
 - 담당교수: 최유경(ykchoi@sejong.ac.kr)
@@ -92,3 +95,5 @@
     - https://www.youtube.com/watch?v=Ps8HDIAyPD0&list=PLuHgQVnccGMDeMJsGq2O-55Ymtx0IdKWf
 
 
+## 참고자료
+- 본 수업은 고려대학교 강필성 교수님의 강의 자료를 활용하고 있음을 밝힙니다.
